@@ -2,4 +2,5 @@
 *.pem
 #packed extensions
 *.crx
-
+#vim swap files
+*.swp
